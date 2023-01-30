@@ -1,4 +1,4 @@
-# Scrapping with Go
+# Scraping with Go
 
 ## Basic of HTML Elements
 
